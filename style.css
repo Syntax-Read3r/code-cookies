@@ -1,0 +1,62 @@
+body {
+    margin: 0;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: green;
+    color: aqua;
+    padding: 16px;
+    margin-bottom: 16px;
+}
+
+nav ul  {
+    display: flex;
+    list-style: none;
+}
+
+nav a {
+    text-decoration: none;
+    color: aqua;
+    font-size: 24px;
+    padding: 32px
+}
+
+nav a::hover {
+    color: green;
+    background-color:#D46159;
+
+}
+
+main {
+    width: 90%;
+    margin: 0 auto 0 auto;
+}
+
+#Hero {
+    width: 100%;
+}
+
+.cheese {
+    width: 50%;
+}
+
+section img {
+    display: block;
+    margin: 0 auto;
+}
+
+p {
+    text-align: center;
+}
+
+footer {
+    padding: 18px;
+    background-color: 2687E0;
+}
+
+footer p {
+
+}
