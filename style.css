@@ -24,9 +24,10 @@ nav a {
     padding: 32px
 }
 
-nav a::hover {
+nav a:hover {
     color: green;
     background-color:#D46159;
+    border-radius: 5px;
 
 }
 
