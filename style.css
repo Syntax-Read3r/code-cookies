@@ -12,6 +12,10 @@ header {
     margin-bottom: 16px;
 }
 
+nav {
+    display: flex;
+}
+
 nav ul  {
     display: flex;
     list-style: none;
@@ -61,4 +65,8 @@ footer {
 
 footer p {
 color: black;
+}
+
+.cookie {
+    width: 20px;
 }
