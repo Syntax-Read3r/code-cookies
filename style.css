@@ -51,7 +51,8 @@ section img {
 
 p {
     text-align: center;
-}
+    color: lightblue;
+};
 
 footer {
     padding: 18px;
@@ -60,5 +61,4 @@ footer {
 
 footer p {
 color: black;
-
 }
